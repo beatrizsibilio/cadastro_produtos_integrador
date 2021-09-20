@@ -30,6 +30,14 @@ label, p{
   margin-bottom: 30px;
 }
 
-#categorias{
-  margin-right: 20px;
+#conjuntos{
+  margin-left: 7px;
+}
+
+#acessorios{
+  margin-left: 30px;
+}
+
+#foto{
+  margin-bottom: 15px;
 }
